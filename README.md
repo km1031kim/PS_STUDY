@@ -1,5 +1,5 @@
 # **PS_STUDY**  
-**코딩 테스트, 알고리즘, 자료구조 공부**
+**코딩 테스트, 알고리즘**
 
 ## **👥 멤버**  
 | [이도경](https://github.com/dbzoseh2rl) | [최혜원](https://github.com/choihywon) | [김진규](https://github.com/km1031kim) | [박성근](https://github.com/p-seonggeun) |  
